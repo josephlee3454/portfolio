@@ -29,7 +29,9 @@ namespace portfolio
             }
 
             // app.UseRouting();
-            app.UseMvc();   
+            app.UseMvc();   //add this line, replacing the app.run lines of code
+	        app.UseStaticFiles();
+    	    app.UseMvc();
 
             // app.UseEndpoints(endpoints =>
             // {

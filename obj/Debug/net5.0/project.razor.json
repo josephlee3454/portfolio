@@ -15601,6 +15601,22 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "portfolio",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/home/owner/dojo/c#colections/portfolio/portfolio/Views/portfolio/Projects.cshtml",
+      "TargetPath": "Views\\portfolio\\Projects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/owner/dojo/c#colections/portfolio/portfolio/Views/portfolio/Contact.cshtml",
+      "TargetPath": "Views\\portfolio\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/owner/dojo/c#colections/portfolio/portfolio/Views/portfolio/Index.cshtml",
+      "TargetPath": "Views\\portfolio\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
